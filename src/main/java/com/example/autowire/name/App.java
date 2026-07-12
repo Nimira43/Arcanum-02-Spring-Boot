@@ -1,6 +1,6 @@
 package com.example.autowire.name;
 
-import car.example.constructor.injection.Car;
+
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
